@@ -1,0 +1,31 @@
+/* styles.css */
+
+.container {
+    display: flex;
+  }
+  
+  .menu {
+    flex: 1;
+  }
+  
+  .content {
+    flex: 4;
+  }
+
+  .home_container {
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+  }
+
+  .content_container {
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+  }
+  
+  input {
+    border: 1px solid #ccc; 
+}
+
